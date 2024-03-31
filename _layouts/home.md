@@ -35,7 +35,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-    {{ content }}
+    <p>Passionate computer engineering master's student specializing in data mining, process mining, and big data analytics. Dedicated to leveraging advanced algorithms and technologies to extract valuable insights and optimize processes. Committed to advancing knowledge and innovation in the fields of data science and engineering</p>
   </div>
 </div>
 
