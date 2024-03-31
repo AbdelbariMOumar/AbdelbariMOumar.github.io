@@ -173,7 +173,8 @@ privacy-policy:
 constants:
   greetings: Iam Abdelbari MAHAMAT OUMAR.
   welcome: Salut!
-  about: Master's student in Computer Engineering
+  about: 
+A Master's student in Computer Engineering passionate about data exploration, extraction processes, and analysis of massive data. Determined to leverage advanced algorithms and cutting-edge technologies to extract valuable insights and optimize processes. Committed to advancing knowledge and innovation in the fields of data science and engineering.
   sample: Msc. Computer Engineer
 
 # for contact form
