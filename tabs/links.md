@@ -85,7 +85,7 @@ page_data:
       title: "Liquid Reference"
       url: "https://shopify.dev/api/liquid/"
       info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub."
-published:false
+
     # webdesign
     - type: id_webdesign
       title: "W3Schools"
