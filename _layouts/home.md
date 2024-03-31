@@ -35,7 +35,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-    <h4 style="color:red">ABDELBARI MAHAAMT OUMAR</h4>
+    <h4 style="color:slateblue">ABDELBARI MAHAAMT OUMAR</h4>
     <p>Passionate computer engineering master's student specializing in data mining, process mining, and big data analytics. Dedicated to leveraging advanced algorithms and technologies to extract valuable insights and optimize processes. Committed to advancing knowledge and innovation in the fields of data science and engineering</p>
   </div>
 </div>
