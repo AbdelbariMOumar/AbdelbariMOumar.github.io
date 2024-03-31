@@ -171,9 +171,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Iam Abdelbari MAHAMAT OUMAR.
+  greetings: Who's AMO?
   welcome: Salut!
-  about: Passionate computer engineering master's student specializing in data mining, process mining, and big data analytics. Dedicated to leveraging advanced algorithms and technologies to extract valuable insights and optimize processes. Committed to advancing knowledge and innovation in the fields of data science and engineering
+  about: Abdelbari Mahamat Oumar is a Chadian student pursuing a master's degree in computer engineering at Sakarya University, having obtained his bachelor's degree from Karabuk University. Passionate about data exploration, extraction, and analysis of massive datasets, he is committed to utilizing advanced algorithms and cutting-edge technologies to extract valuable insights and optimize processes. His goal is to contribute to the advancement of knowledge and innovation in the fields of data science and engineering. His academic background and technical skills provide him with a solid foundation to tackle complex challenges related to large-scale data manipulation and analysis. Abdelbari seeks to apply his knowledge to solve real-world problems and provide innovative solutions in various application domains.
   sample: Msc. Computer Engineer
 
 # for contact form
