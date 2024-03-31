@@ -172,11 +172,11 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Iam Abdelbari MAHAMAT OUMAR.
-  welcome: Eng.
+  welcome: Salut!
   about: Passionate computer engineering master's student specializing in data mining, process mining, and big data
          analytics. Dedicated to leveraging advanced algorithms and technologies to extract valuable insights and optimize 
          processes. Committed to advancing knowledge and innovation in the fields of data science and engineering
-  sample: Msc. Computer Engineer
+  #sample: Msc. Computer Engineer
 
 # for contact form
 contact_form:
