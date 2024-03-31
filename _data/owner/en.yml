@@ -19,6 +19,8 @@ home:
 # about page sub title
 about:
   sub_title: "$site_sample"
+  about: "I'm ABDELBARI MAHAMAT OUMAR.
+Passionate computer engineering master's student specializing in data mining, process mining, and big data analytics. Dedicated to leveraging advanced algorithms and technologies to extract valuable insights and optimize processes. Committed to advancing knowledge and innovation in the fields of data science and engineering"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
