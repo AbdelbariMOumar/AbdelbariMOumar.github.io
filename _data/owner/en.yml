@@ -6,6 +6,7 @@ brand: "AMO"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
+about:"Passionate computer engineering master's student specializing in data mining, process mining, and big data analytics. Dedicated to leveraging advanced algorithms and technologies to extract valuable insights and optimize processes. Committed to advancing knowledge and innovation in the fields of data science and engineering."
 
 # used for seo meta post author (if it's not defined in post)
 name: "Abdelbari"
