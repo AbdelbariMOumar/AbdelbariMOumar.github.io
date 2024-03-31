@@ -48,14 +48,14 @@ meta_common_description: "Votre méta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
+  - github: "AbdelbariMOumar"
+  - email: "benalbayine@gmail.com"
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
   #- youtube: ""
-  #- facebook: ""
+  - facebook: "abdelbari.mhtoumar.5"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
