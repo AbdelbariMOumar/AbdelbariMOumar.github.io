@@ -173,8 +173,8 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Moi, C'est Abdelbari MAHAMAT OUMAR.
-  welcome: Ing.
+  greetings: Qui est AMO ?
+  #welcome: Ing.
   about: Abdelbari Mahamat Oumar est un étudiant tchadien en master de génie informatique à l'université de Sakarya, ayant obtenu sa licence à l'université de Karabuk. Passionné par l'exploration de données, l'extraction et l'analyse de données massives, il s'engage à utiliser des algorithmes avancés et des technologies de pointe pour extraire des insights précieux et optimiser les processus. Son objectif est de contribuer à l'avancement des connaissances et de l'innovation dans les domaines de la science des données et de l'ingénierie. Son parcours académique et ses compétences techniques lui confèrent une solide base pour relever les défis complexes liés à la manipulation et à l'analyse de données à grande échelle. Abdelbari cherche à appliquer ses connaissances pour résoudre des problèmes concrets et apporter des solutions innovantes dans divers domaines d'application.
   sample: Msc. Génie informatique
 
